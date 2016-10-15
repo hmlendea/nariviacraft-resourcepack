@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "bedrock" },
+            { "model": "bedrock/bedrock01" },
+            { "model": "bedrock/bedrock02" },
+            { "model": "bedrock/bedrock03" },
+            { "model": "bedrock/bedrock04" },
+            { "model": "bedrock/bedrock05" },
+            { "model": "bedrock/bedrock06" },
+            { "model": "bedrock/bedrock07" },
+            { "model": "bedrock/bedrock08" },
+            { "model": "bedrock/bedrock09" },
+            { "model": "bedrock/bedrock10" },
+            { "model": "bedrock/bedrock11" },
+            { "model": "bedrock/bedrock12" },
+            { "model": "bedrock/bedrock13" },
+            { "model": "bedrock/bedrock14" },
+            { "model": "bedrock/bedrock15" },
+            { "model": "bedrock/bedrock16" },
+            { "model": "bedrock/bedrock17" },
+            { "model": "bedrock/bedrock18" }
+        ]
+    }
+}

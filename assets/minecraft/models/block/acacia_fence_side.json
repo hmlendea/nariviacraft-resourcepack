@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "side": "blocks3d/acacia_fence_side",
+		"cap": "blocks3d/acacia_fence_top"
+    }
+}

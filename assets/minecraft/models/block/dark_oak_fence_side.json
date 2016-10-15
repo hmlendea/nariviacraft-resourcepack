@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "side": "blocks3d/dark_oak_fence_side",
+		"cap": "blocks3d/dark_oak_fence_top"
+    }
+}

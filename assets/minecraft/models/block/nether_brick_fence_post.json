@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "side": "blocks3d/nether_fence_side",
+        "top": "blocks3d/nether_fence_top"
+    }
+}

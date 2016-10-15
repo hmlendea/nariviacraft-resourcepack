@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+        "side": "blocks3d/jungle_fence_side",
+		"cap": "blocks3d/jungle_fence_top"
+    }
+}

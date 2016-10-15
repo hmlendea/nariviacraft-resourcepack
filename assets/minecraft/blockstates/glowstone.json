@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "glowstone" },
+            { "model": "glowstone/glowstone01" },
+            { "model": "glowstone/glowstone02" },
+            { "model": "glowstone/glowstone03" },
+            { "model": "glowstone/glowstone04" },
+            { "model": "glowstone/glowstone05" },
+            { "model": "glowstone/glowstone06" },
+            { "model": "glowstone/glowstone07" },
+            { "model": "glowstone/glowstone08" },
+            { "model": "glowstone/glowstone09" },
+            { "model": "glowstone/glowstone10" },
+            { "model": "glowstone/glowstone11" },
+            { "model": "glowstone/glowstone12" },
+            { "model": "glowstone/glowstone13" },
+            { "model": "glowstone/glowstone14" },
+            { "model": "glowstone/glowstone15" },
+            { "model": "glowstone/glowstone16" },
+            { "model": "glowstone/glowstone17" },
+            { "model": "glowstone/glowstone18" }
+        ]
+    }
+}

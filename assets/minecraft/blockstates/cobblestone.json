@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cobblestone" },
+            { "model": "cobblestone/cobblestone01" },
+            { "model": "cobblestone/cobblestone02" },
+            { "model": "cobblestone/cobblestone03" },
+            { "model": "cobblestone/cobblestone04" },
+            { "model": "cobblestone/cobblestone05" },
+            { "model": "cobblestone/cobblestone06" },
+            { "model": "cobblestone/cobblestone07" },
+            { "model": "cobblestone/cobblestone08" },
+            { "model": "cobblestone/cobblestone09" },
+            { "model": "cobblestone/cobblestone10" },
+            { "model": "cobblestone/cobblestone11" },
+            { "model": "cobblestone/cobblestone12" },
+            { "model": "cobblestone/cobblestone13" },
+            { "model": "cobblestone/cobblestone14" },
+            { "model": "cobblestone/cobblestone15" },
+            { "model": "cobblestone/cobblestone16" },
+            { "model": "cobblestone/cobblestone17" },
+            { "model": "cobblestone/cobblestone18" }
+        ]
+    }
+}
