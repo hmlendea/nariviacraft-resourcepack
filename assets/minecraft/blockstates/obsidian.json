@@ -1,25 +1,25 @@
 {
     "variants": {
         "normal": [
-            { "model": "obsidian" },
-            { "model": "obsidian/obsidian01" },
-            { "model": "obsidian/obsidian02" },
-            { "model": "obsidian/obsidian03" },
-            { "model": "obsidian/obsidian04" },
-            { "model": "obsidian/obsidian05" },
-            { "model": "obsidian/obsidian06" },
-            { "model": "obsidian/obsidian07" },
-            { "model": "obsidian/obsidian08" },
-            { "model": "obsidian/obsidian09" },
-            { "model": "obsidian/obsidian10" },
-            { "model": "obsidian/obsidian11" },
-            { "model": "obsidian/obsidian12" },
-            { "model": "obsidian/obsidian13" },
-            { "model": "obsidian/obsidian14" },
-            { "model": "obsidian/obsidian15" },
-            { "model": "obsidian/obsidian16" },
-            { "model": "obsidian/obsidian17" },
-            { "model": "obsidian/obsidian18" }
+            { "model": "block/obsidian" },
+            { "model": "block/obsidian/obsidian01" },
+            { "model": "block/obsidian/obsidian02" },
+            { "model": "block/obsidian/obsidian03" },
+            { "model": "block/obsidian/obsidian04" },
+            { "model": "block/obsidian/obsidian05" },
+            { "model": "block/obsidian/obsidian06" },
+            { "model": "block/obsidian/obsidian07" },
+            { "model": "block/obsidian/obsidian08" },
+            { "model": "block/obsidian/obsidian09" },
+            { "model": "block/obsidian/obsidian10" },
+            { "model": "block/obsidian/obsidian11" },
+            { "model": "block/obsidian/obsidian12" },
+            { "model": "block/obsidian/obsidian13" },
+            { "model": "block/obsidian/obsidian14" },
+            { "model": "block/obsidian/obsidian15" },
+            { "model": "block/obsidian/obsidian16" },
+            { "model": "block/obsidian/obsidian17" },
+            { "model": "block/obsidian/obsidian18" }
         ]
     }
 }

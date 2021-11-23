@@ -1,25 +1,25 @@
 {
     "variants": {
         "normal": [
-            { "model": "netherrack" },
-            { "model": "netherrack/netherrack01" },
-            { "model": "netherrack/netherrack02" },
-            { "model": "netherrack/netherrack03" },
-            { "model": "netherrack/netherrack04" },
-            { "model": "netherrack/netherrack05" },
-            { "model": "netherrack/netherrack06" },
-            { "model": "netherrack/netherrack07" },
-            { "model": "netherrack/netherrack08" },
-            { "model": "netherrack/netherrack09" },
-            { "model": "netherrack/netherrack10" },
-            { "model": "netherrack/netherrack11" },
-            { "model": "netherrack/netherrack12" },
-            { "model": "netherrack/netherrack13" },
-            { "model": "netherrack/netherrack14" },
-            { "model": "netherrack/netherrack15" },
-            { "model": "netherrack/netherrack16" },
-            { "model": "netherrack/netherrack17" },
-            { "model": "netherrack/netherrack18" }
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack/netherrack01" },
+            { "model": "block/netherrack/netherrack02" },
+            { "model": "block/netherrack/netherrack03" },
+            { "model": "block/netherrack/netherrack04" },
+            { "model": "block/netherrack/netherrack05" },
+            { "model": "block/netherrack/netherrack06" },
+            { "model": "block/netherrack/netherrack07" },
+            { "model": "block/netherrack/netherrack08" },
+            { "model": "block/netherrack/netherrack09" },
+            { "model": "block/netherrack/netherrack10" },
+            { "model": "block/netherrack/netherrack11" },
+            { "model": "block/netherrack/netherrack12" },
+            { "model": "block/netherrack/netherrack13" },
+            { "model": "block/netherrack/netherrack14" },
+            { "model": "block/netherrack/netherrack15" },
+            { "model": "block/netherrack/netherrack16" },
+            { "model": "block/netherrack/netherrack17" },
+            { "model": "block/netherrack/netherrack18" }
         ]
     }
 }

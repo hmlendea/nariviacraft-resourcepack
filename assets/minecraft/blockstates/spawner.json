@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "block/spawner" },
+            { "model": "block/spawner/spawner01" },
+            { "model": "block/spawner/spawner02" },
+            { "model": "block/spawner/spawner03" },
+            { "model": "block/spawner/spawner04" },
+            { "model": "block/spawner/spawner05" }
+        ]
+    }
+}

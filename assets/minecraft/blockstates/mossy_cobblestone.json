@@ -1,25 +1,25 @@
 {
     "variants": {
         "normal": [
-            { "model": "mossy_cobblestone" },
-            { "model": "mossy_cobblestone/mossy_cobblestone01" },
-            { "model": "mossy_cobblestone/mossy_cobblestone02" },
-            { "model": "mossy_cobblestone/mossy_cobblestone03" },
-            { "model": "mossy_cobblestone/mossy_cobblestone04" },
-            { "model": "mossy_cobblestone/mossy_cobblestone05" },
-            { "model": "mossy_cobblestone/mossy_cobblestone06" },
-            { "model": "mossy_cobblestone/mossy_cobblestone07" },
-            { "model": "mossy_cobblestone/mossy_cobblestone08" },
-            { "model": "mossy_cobblestone/mossy_cobblestone09" },
-            { "model": "mossy_cobblestone/mossy_cobblestone10" },
-            { "model": "mossy_cobblestone/mossy_cobblestone11" },
-            { "model": "mossy_cobblestone/mossy_cobblestone12" },
-            { "model": "mossy_cobblestone/mossy_cobblestone13" },
-            { "model": "mossy_cobblestone/mossy_cobblestone14" },
-            { "model": "mossy_cobblestone/mossy_cobblestone15" },
-            { "model": "mossy_cobblestone/mossy_cobblestone16" },
-            { "model": "mossy_cobblestone/mossy_cobblestone17" },
-            { "model": "mossy_cobblestone/mossy_cobblestone18" }
+            { "model": "block/mossy_cobblestone" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone01" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone02" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone03" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone04" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone05" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone06" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone07" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone08" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone09" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone10" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone11" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone12" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone13" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone14" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone15" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone16" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone17" },
+            { "model": "block/mossy_cobblestone/mossy_cobblestone18" }
         ]
     }
 }

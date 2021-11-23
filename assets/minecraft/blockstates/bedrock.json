@@ -1,25 +1,25 @@
 {
     "variants": {
         "normal": [
-            { "model": "bedrock" },
-            { "model": "bedrock/bedrock01" },
-            { "model": "bedrock/bedrock02" },
-            { "model": "bedrock/bedrock03" },
-            { "model": "bedrock/bedrock04" },
-            { "model": "bedrock/bedrock05" },
-            { "model": "bedrock/bedrock06" },
-            { "model": "bedrock/bedrock07" },
-            { "model": "bedrock/bedrock08" },
-            { "model": "bedrock/bedrock09" },
-            { "model": "bedrock/bedrock10" },
-            { "model": "bedrock/bedrock11" },
-            { "model": "bedrock/bedrock12" },
-            { "model": "bedrock/bedrock13" },
-            { "model": "bedrock/bedrock14" },
-            { "model": "bedrock/bedrock15" },
-            { "model": "bedrock/bedrock16" },
-            { "model": "bedrock/bedrock17" },
-            { "model": "bedrock/bedrock18" }
+            { "model": "block/bedrock" },
+            { "model": "block/bedrock/bedrock01" },
+            { "model": "block/bedrock/bedrock02" },
+            { "model": "block/bedrock/bedrock03" },
+            { "model": "block/bedrock/bedrock04" },
+            { "model": "block/bedrock/bedrock05" },
+            { "model": "block/bedrock/bedrock06" },
+            { "model": "block/bedrock/bedrock07" },
+            { "model": "block/bedrock/bedrock08" },
+            { "model": "block/bedrock/bedrock09" },
+            { "model": "block/bedrock/bedrock10" },
+            { "model": "block/bedrock/bedrock11" },
+            { "model": "block/bedrock/bedrock12" },
+            { "model": "block/bedrock/bedrock13" },
+            { "model": "block/bedrock/bedrock14" },
+            { "model": "block/bedrock/bedrock15" },
+            { "model": "block/bedrock/bedrock16" },
+            { "model": "block/bedrock/bedrock17" },
+            { "model": "block/bedrock/bedrock18" }
         ]
     }
 }

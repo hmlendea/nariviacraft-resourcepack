@@ -1,25 +1,25 @@
 {
     "variants": {
         "normal": [
-            { "model": "cobblestone" },
-            { "model": "cobblestone/cobblestone01" },
-            { "model": "cobblestone/cobblestone02" },
-            { "model": "cobblestone/cobblestone03" },
-            { "model": "cobblestone/cobblestone04" },
-            { "model": "cobblestone/cobblestone05" },
-            { "model": "cobblestone/cobblestone06" },
-            { "model": "cobblestone/cobblestone07" },
-            { "model": "cobblestone/cobblestone08" },
-            { "model": "cobblestone/cobblestone09" },
-            { "model": "cobblestone/cobblestone10" },
-            { "model": "cobblestone/cobblestone11" },
-            { "model": "cobblestone/cobblestone12" },
-            { "model": "cobblestone/cobblestone13" },
-            { "model": "cobblestone/cobblestone14" },
-            { "model": "cobblestone/cobblestone15" },
-            { "model": "cobblestone/cobblestone16" },
-            { "model": "cobblestone/cobblestone17" },
-            { "model": "cobblestone/cobblestone18" }
+            { "model": "block/cobblestone" },
+            { "model": "block/cobblestone/cobblestone01" },
+            { "model": "block/cobblestone/cobblestone02" },
+            { "model": "block/cobblestone/cobblestone03" },
+            { "model": "block/cobblestone/cobblestone04" },
+            { "model": "block/cobblestone/cobblestone05" },
+            { "model": "block/cobblestone/cobblestone06" },
+            { "model": "block/cobblestone/cobblestone07" },
+            { "model": "block/cobblestone/cobblestone08" },
+            { "model": "block/cobblestone/cobblestone09" },
+            { "model": "block/cobblestone/cobblestone10" },
+            { "model": "block/cobblestone/cobblestone11" },
+            { "model": "block/cobblestone/cobblestone12" },
+            { "model": "block/cobblestone/cobblestone13" },
+            { "model": "block/cobblestone/cobblestone14" },
+            { "model": "block/cobblestone/cobblestone15" },
+            { "model": "block/cobblestone/cobblestone16" },
+            { "model": "block/cobblestone/cobblestone17" },
+            { "model": "block/cobblestone/cobblestone18" }
         ]
     }
 }

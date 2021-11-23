@@ -1,11 +1,11 @@
 {
     "variants": {
         "normal": [
-            { "model": "gravel" },
-            { "model": "gravel/gravel01" },
-            { "model": "gravel/gravel02" },
-            { "model": "gravel/gravel03" },
-            { "model": "gravel/gravel04" }
+            { "model": "block/gravel" },
+            { "model": "block/gravel/gravel01" },
+            { "model": "block/gravel/gravel02" },
+            { "model": "block/gravel/gravel03" },
+            { "model": "block/gravel/gravel04" }
         ]
     }
 }
