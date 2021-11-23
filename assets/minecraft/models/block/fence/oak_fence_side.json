@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_side",
     "textures": {
-        "side": "blocks/bdc_fence_side",
-		"cap": "blocks/bdc_fence_top"
+        "side": "block/bdc_fence_side",
+		"cap": "block/bdc_fence_top"
     }
 }

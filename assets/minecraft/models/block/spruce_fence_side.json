@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_side",
     "textures": {
-        "side": "blocks3d/spruce_fence_side",
-		"cap": "blocks3d/spruce_fence_top"
+        "side": "block3d/spruce_fence_side",
+		"cap": "block3d/spruce_fence_top"
     }
 }

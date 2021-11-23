@@ -1,7 +1,7 @@
 {
 "textures": {
-    "particle": "blocks3d/stone_pressure_plate",
-    "texture": "blocks3d/stone_pressure_plate"
+    "particle": "block3d/stone_pressure_plate",
+    "texture": "block3d/stone_pressure_plate"
 },
 "elements": [ 
 {

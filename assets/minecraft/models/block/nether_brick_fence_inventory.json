@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_inventory",
     "textures": {
-        "side": "blocks3d/nether_fence_side",
-        "top": "blocks3d/nether_fence_top"
+        "side": "block3d/nether_fence_side",
+        "top": "block3d/nether_fence_top"
     }
 }

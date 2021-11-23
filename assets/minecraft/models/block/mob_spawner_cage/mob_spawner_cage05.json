@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/mob_spawner/mob_spawner05"
+        "all": "block/mob_spawner/mob_spawner05"
     }
 }

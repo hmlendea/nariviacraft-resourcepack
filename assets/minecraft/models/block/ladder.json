@@ -1,8 +1,8 @@
 {
 	"__comment": "Made by Hori",
 	"textures": {
-		"Texture0": "blocks3d/ladder",
-		"particle": "blocks3d/ladder"
+		"Texture0": "block3d/ladder",
+		"particle": "block3d/ladder"
 	},
 	"elements": [
 		{

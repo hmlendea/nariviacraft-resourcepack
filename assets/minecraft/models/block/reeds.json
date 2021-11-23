@@ -2,8 +2,8 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "reeds": "blocks3d/reeds",
-        "particle": "blocks3d/reeds"
+        "reeds": "block3d/reeds",
+        "particle": "block3d/reeds"
     },
     "elements": [
         {

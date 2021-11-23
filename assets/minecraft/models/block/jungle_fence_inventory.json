@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_inventory",
     "textures": {
-        "side": "blocks3d/jungle_fence_side",
-        "top": "blocks3d/jungle_fence_top"
+        "side": "block3d/jungle_fence_side",
+        "top": "block3d/jungle_fence_top"
     }
 }

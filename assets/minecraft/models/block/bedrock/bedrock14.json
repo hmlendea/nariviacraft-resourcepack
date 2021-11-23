@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/bedrock/bedrock14"
+        "all": "block/bedrock/bedrock14"
     }
 }

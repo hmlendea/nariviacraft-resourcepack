@@ -2,9 +2,9 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "door_side": "blocks3d/door_iron_side",
-        "door_lower": "blocks3d/door_iron_lower",
-        "particle": "blocks3d/door_iron_lower"
+        "door_side": "block3d/door_iron_side",
+        "door_lower": "block3d/door_iron_lower",
+        "particle": "block3d/door_iron_lower"
     },
     "elements": [
         {

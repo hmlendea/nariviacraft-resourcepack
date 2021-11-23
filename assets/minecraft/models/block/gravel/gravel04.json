@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/gravel/gravel04"
+        "all": "block/gravel/gravel04"
     }
 }

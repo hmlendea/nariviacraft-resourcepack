@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "blocks/bookshelf_end",
-        "side": "blocks/bookshelf"
+        "end": "block/bookshelf_end",
+        "side": "block/bookshelf"
     }
 }

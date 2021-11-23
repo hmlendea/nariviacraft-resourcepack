@@ -1,7 +1,7 @@
 {
     "parent": "block/fence_post",
     "textures": {
-        "side": "blocks3d/acacia_fence_side",
-        "top": "blocks3d/acacia_fence_top"
+        "side": "block3d/acacia_fence_side",
+        "top": "block3d/acacia_fence_top"
     }
 }

@@ -2,8 +2,8 @@
 "__comment": "Designed by the resident Inuit with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "parent": "block/thin_block",
 "textures": {
-    "particle": "blocks/stone",
-    "texture": "blocks3d/stone_pressure_plate"
+    "particle": "block/stone",
+    "texture": "block3d/stone_pressure_plate"
 },
 "elements": [ 
 {

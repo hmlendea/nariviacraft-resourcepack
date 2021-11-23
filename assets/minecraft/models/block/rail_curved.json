@@ -2,8 +2,8 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/rail_normal",
-        "rail1": "blocks3d/rail1"
+        "particle": "block/rail_normal",
+        "rail1": "block3d/rail1"
     },
     "elements": [
         {
